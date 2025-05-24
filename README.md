@@ -28,7 +28,7 @@ A simple and low-cost soil moisture sensor using Arduino to help you monitor pla
 
 ## ⚡ Circuit Diagram
 
-![Wiring Diagram](images/wiring_diagram.jpg)
+![Wiring Diagram](images/wiring_bb.png)
 
 **Connections:**
 
