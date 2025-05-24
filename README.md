@@ -28,7 +28,8 @@ A simple and low-cost soil moisture sensor using Arduino to help you monitor pla
 
 ## ⚡ Circuit Diagram
 
-![Wiring Diagram](images/wiring_bb.png)
+Find the diagram in `image/Wiring_bb.png`
+
 
 **Connections:**
 
@@ -56,20 +57,13 @@ Once powered, the OLED display shows the current moisture level. Insert the sens
 
 ---
 
-## 📸 Photos
-
-| Assembled Device            | Sensor in Soil             |
-|----------------------------|----------------------------|
-| ![](images/assembled_device.jpg) | ![](images/sensor_in_soil.jpg) |
-
----
-
 ## 🧱 3D Files
 
 Located in the [`3d-files/`](./3d-files/) folder:
 
-- `sensor_case.stl`: Case for the sensor board
-- `enclosure_top.stl`: Top cover of the enclosure
+- `base.stl`: Base of the enclosure
+- `lid.stl`: Cover of the base
+- `OLED Front`: Cover of the Monitor
 
 Use any FDM printer with PLA or PETG for best results.
 
